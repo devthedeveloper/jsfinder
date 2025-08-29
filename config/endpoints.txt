@@ -1,0 +1,212 @@
+# Common API endpoints for discovery
+# Lines starting with # are comments and will be ignored
+
+# Authentication endpoints
+api
+auth
+login
+logout
+signin
+signup
+register
+token
+refresh
+oauth
+
+# User management
+user
+users
+profile
+profiles
+account
+accounts
+me
+
+# Admin endpoints
+admin
+dashboard
+manage
+management
+control
+panel
+
+# API versioning
+v1
+v2
+v3
+api/v1
+api/v2
+api/v3
+
+# Data endpoints
+data
+info
+information
+details
+status
+health
+ping
+version
+
+# Configuration
+config
+configuration
+settings
+options
+preferences
+
+# File operations
+files
+file
+upload
+download
+import
+export
+
+# Search and filtering
+search
+filter
+query
+find
+lookup
+
+# CRUD operations
+create
+read
+update
+delete
+list
+get
+post
+put
+patch
+
+# Common resources
+products
+product
+orders
+order
+customers
+customer
+invoices
+invoice
+payments
+payment
+
+# Development/Testing
+test
+testing
+debug
+dev
+development
+staging
+prod
+production
+
+# Internal endpoints
+internal
+private
+secure
+protected
+hidden
+
+# Monitoring
+metrics
+analytics
+logs
+logging
+monitoring
+stats
+statistics
+
+# Documentation
+docs
+documentation
+help
+support
+faq
+
+# Webhooks and notifications
+webhook
+webhooks
+notify
+notification
+notifications
+callback
+
+# Security
+security
+ssl
+tls
+cert
+certificate
+key
+keys
+secret
+secrets
+
+# Database
+db
+database
+sql
+query
+table
+tables
+
+# Cache
+cache
+redis
+memcache
+session
+sessions
+
+# Email
+email
+mail
+send
+smtp
+
+# SMS
+sms
+text
+message
+messages
+
+# Social
+social
+facebook
+twitter
+google
+github
+linkedin
+
+# Payment
+pay
+payment
+billing
+charge
+subscription
+subscriptions
+
+# Reports
+report
+reports
+export
+download
+
+# Backup
+backup
+restore
+sync
+
+# Misc
+misc
+other
+general
+common
+shared
+util
+utils
+utility
+helper
+helpers
